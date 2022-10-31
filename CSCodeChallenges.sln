@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiples3sAnd5s", "CSCodeChallenges\Multiples3sAnd5s.csproj", "{012AD5D1-92FD-4292-ADDD-9B5E46000D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiples3sAnd5s", "CSCodeChallenges\Multiples3sAnd5s.csproj", "{012AD5D1-92FD-4292-ADDD-9B5E46000D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenges2", "FibEvenSum\CodeChallenges2.csproj", "{748393B1-A262-40C8-965D-29349C07526F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{012AD5D1-92FD-4292-ADDD-9B5E46000D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{012AD5D1-92FD-4292-ADDD-9B5E46000D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{012AD5D1-92FD-4292-ADDD-9B5E46000D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748393B1-A262-40C8-965D-29349C07526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748393B1-A262-40C8-965D-29349C07526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748393B1-A262-40C8-965D-29349C07526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748393B1-A262-40C8-965D-29349C07526F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
